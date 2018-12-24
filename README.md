@@ -5,3 +5,6 @@
 
 # Round 2, day [002/100]: December 23, Sunday
 [Today's Progress](https://frontendpadawan.wordpress.com/2018/12/22/round-2-day-002-100/)
+
+# Round 2, day [003/100]: December 24, Sunday
+[Today's Progress](https://frontendpadawan.wordpress.com/2018/12/22/round-2-day-003-100/)
