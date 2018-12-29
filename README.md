@@ -19,4 +19,7 @@
 [Today's Progress](https://frontendpadawan.wordpress.com/2018/12/22/round-2-day-006-100/)
 
 # Round 2, day [007/100]: December 28, Friday
-[Today's Progress](https://frontendpadawan.wordpress.com/2018/12/22/round-2-day-007-100/)
+[Today's Progress](https://frontendpadawan.wordpress.com/2018/12/29/r2d7-100daysofcode/)
+
+# Round 2, day [008/100]: December 29, Saturday
+[Today's Progress](https://frontendpadawan.wordpress.com/2018/12/29/r2d8-100daysofcode/)
