@@ -74,3 +74,6 @@
 
 # Round 2, day [025/100]: January 15, Tuesday
 [Today's Progress](https://frontendpadawan.wordpress.com/2018/12/29/r2d25-100daysofcode/)
+
+# Round 2, day [026/100]: January 16, Wednesday
+[Today's Progress](https://frontendpadawan.wordpress.com/2018/12/29/r2d26-100daysofcode/)
