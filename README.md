@@ -178,6 +178,6 @@
 
 # Round 2, day [059/100]: February 18, Monday
 [Today's Progress](https://frontendpadawan.wordpress.com/2018/12/29/r2d59-100daysofcode/)
-=======
-[Today's Progress](https://frontendpadawan.wordpress.com/2018/12/29/r2d57-100daysofcode/)
->>>>>>> parent of 4148ebc... R2D58
+
+# Round 2, day [060/100]: February 19, Tuesday
+[Today's Progress](https://frontendpadawan.wordpress.com/2018/12/29/r2d60-100daysofcode/)
