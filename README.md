@@ -194,14 +194,17 @@
 # Round 2, day [064/100]: February 23, Saturday
 [Today's Progress](https://frontendpadawan.wordpress.com/2018/12/29/r2d64-100daysofcode/)
 
-# Round 2, day [065/100]: February 24, Monday
+# Round 2, day [065/100]: February 24, Sunday
 [Today's Progress](https://frontendpadawan.wordpress.com/2018/12/29/r2d65-100daysofcode/)
 
-# Round 2, day [066/100]: February 25, Tuesday
+# Round 2, day [066/100]: February 25, Monday
 [Today's Progress](https://frontendpadawan.wordpress.com/2018/12/29/r2d66-100daysofcode/)
 
-# Round 2, day [067/100]: February 26, Wednesday
+# Round 2, day [067/100]: February 26, Tuesday
 [Today's Progress](https://frontendpadawan.wordpress.com/2018/12/29/r2d67-100daysofcode/)
 
-# Round 2, day [068/100]: February 27, Thursday
+# Round 2, day [068/100]: February 27, Wednesday
 [Today's Progress](https://frontendpadawan.wordpress.com/2018/12/29/r2d68-100daysofcode/)
+
+# Round 2, day [069/100]: February 28, Thursday
+[Today's Progress](https://frontendpadawan.wordpress.com/2018/12/29/r2d69-100daysofcode/)
